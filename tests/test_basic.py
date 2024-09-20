@@ -2,3 +2,7 @@
 
 def test_case_9():
     assert 9 == 9
+
+
+def test_case_13():
+    assert 13 == 13
