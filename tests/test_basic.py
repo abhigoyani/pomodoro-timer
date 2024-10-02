@@ -6,3 +6,7 @@ def test_case_9():
 
 def test_case_13():
     assert 13 == 13
+
+
+def test_case_21():
+    assert 21 == 21
