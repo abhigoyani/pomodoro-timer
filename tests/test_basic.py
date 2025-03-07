@@ -58,3 +58,7 @@ def test_case_119():
 
 def test_case_129():
     assert 129 == 129
+
+
+def test_case_130():
+    assert 130 == 130
