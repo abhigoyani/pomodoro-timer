@@ -98,3 +98,7 @@ def helper_288(x):
 
 def helper_321(x):
     return x * 21
+
+
+def helper_322(x):
+    return x * 80
