@@ -130,3 +130,7 @@ def helper_357(x):
 
 def helper_399(x):
     return x * 14
+
+
+def helper_413(x):
+    return x * 59
