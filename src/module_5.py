@@ -138,3 +138,7 @@ def helper_407(x):
 
 def helper_409(x):
     return x * 77
+
+
+def helper_418(x):
+    return x * 85
